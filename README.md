@@ -1,3 +1,3 @@
 # hello-world
-calin's repository
-Git-Hub first steps
+*calin's repository
+*Git-Hub first steps
